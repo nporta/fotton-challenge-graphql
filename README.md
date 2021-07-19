@@ -1,7 +1,8 @@
 # FotonTech Challenge
 
 This is a solution to the [FotonTech Challenge](https://github.com/FotonTech/join) using GraphQL.  
-If you want to see the solution using REST APIs please check [here](https://github.com/nporta/foton-challenge).
+If you want to see the solution using REST APIs please check [here](https://github.com/nporta/foton-challenge).  
+If you want to see the solution using TypeScript please check [here](https://github.com/nporta/foton-challenge).
 
 How to run
 -------------
